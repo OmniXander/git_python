@@ -8,6 +8,4 @@ git remote add origin git@github.com:OmniXander/git_python.git
 git push -u origin main
 '''
 
-
-
 print("python me gusta menos que la pizza")
